@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+knowledgeos.egg-info/PKG-INFO
+knowledgeos.egg-info/SOURCES.txt
+knowledgeos.egg-info/dependency_links.txt
+knowledgeos.egg-info/requires.txt
+knowledgeos.egg-info/top_level.txt
+tests/test_phase1_foundation.py
